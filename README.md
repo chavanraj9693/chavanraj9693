@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @chavanraj9693
+- 👋 Hi, I’m Raj Chavan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter,android development
+- 🌱 I’m currently learning ,Fronend development,cloud computing.
+
 - passionate about learning new technologies
 
 <!---
