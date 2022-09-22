@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Raj Chavan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ,Fronend development,cloud computing.
+- 👀 I’m interested in coding , socializing 
+- 🌱 I’m currently pursuing a bachelor's degree in third year computer science engineering (AI & ML),at Finolex academy of management and technology, ratnagiri
+I have always been an active learner , i like to learn new technologies.
 
 - passionate about learning new technologies
 
