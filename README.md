@@ -1,8 +1,3 @@
-![image](https://user-images.githubusercontent.com/91159019/193554168-064a7e0e-9b33-4c49-ae2a-13aee2eec4d9.png)
-
-
-
-
 
 - 👋 Hi, I’m Raj Chavan
 - 👀 I’m interested in coding , socializing 
